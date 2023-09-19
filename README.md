@@ -1,1 +1,1 @@
-# easyportfolio (copia do portofolio da Adriana Saty)
+# easyportfolio (cópia do portofólio da Adriana Saty)
